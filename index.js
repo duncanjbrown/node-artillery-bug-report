@@ -1,4 +1,3 @@
-//Lets require/import the HTTP module
 var http = require('http');
 
 const PORT=8080;
